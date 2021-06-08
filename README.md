@@ -23,10 +23,9 @@
   <img align="center" alt="Gustav-Laravel" height="35" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">&nbsp;
   <img align="center" alt="Gustav-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">&nbsp;
   <img align="center" alt="Gustav-Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg">&nbsp;
-  <img align="center" alt="Gustav-Quasar" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">&nbsp;
   <img align="center" alt="Gustav-Node" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">&nbsp;
+  <img align="center" alt="Gustav-Quasar" height="30" width="40" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg">&nbsp;
   <img align="center" alt="Gustav-Ionic" height="40" width="80" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ionic-logo-landscape.svg">
- 
 </div>
   
   ##
