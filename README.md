@@ -4,7 +4,7 @@
 - 20 years old
 - Studying Computer Engineering 💻⚙️
 - Studying English and French <img align="center" alt="UK-flag" height="11" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"> <img align="center" alt="France-flag" height="13" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg">
-- From Santo André, São Paulo, Brazil <img align="center" alt="St.André-flag" height="13" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/94/BandeiraSantoAndre.svg"> <img align="center" alt="SP-flag" height="13" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg"> <img align="center" alt="Brazil-flag" width="21" height="13" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg">
+- From Santo André, São Paulo, Brazil <img align="center" alt="St.André-flag" height="13" width="21" src="https://upload.wikimedia.org/wikipedia/commons/9/94/BandeiraSantoAndre.svg"> <img align="center" alt="SP-flag" height="13" src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg"> <img align="center" alt="Brazil-flag" width="22" height="13" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg">
 - Living in Manaus, Amazonas, Brazil <img align="center" alt="Manaus-flag" width="21" height="13" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Bandeira_de_Manaus.svg"> <img align="center" alt="AM-flag" height="13" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bandeira_do_Amazonas.svg"> <img align="center" alt="Brazil-flag" width="23" height="13" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg">
 
 ### Github stats
