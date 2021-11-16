@@ -43,3 +43,5 @@
   <a href="https://www.instagram.com/gustt.nwt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: gusttawolacerda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+  ![Snake animation](https://github.com/Gustav-Dev17/Gustav-Dev17/blob/output/github-contribution-grid-snake.svg)
