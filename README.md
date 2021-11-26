@@ -19,7 +19,6 @@
   <img align="center" alt="Gustav-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustav-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustav-JavaScript" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
-  <img align="center" alt="Gustav-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gustav-PHP" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
   <img align="center" alt="Gustav-C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img align="center" alt="Gustav-Java" height="35" width="45" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
